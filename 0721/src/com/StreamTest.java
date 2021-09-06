@@ -13,7 +13,7 @@ public class StreamTest {
         manList.add("刘德华");
         manList.add("吴京");
         manList.add("周星驰");
-        manList.add("李连杰");
+        manList.add("李连杰2");
 
         ArrayList<String> woManList = new ArrayList<>();
         woManList.add("林心如");
