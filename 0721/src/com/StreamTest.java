@@ -15,6 +15,7 @@ public class StreamTest {
         manList.add("周星驰");
         manList.add("李连杰3");
         manList.add("李连杰4");
+        manList.add("hot-fix李连杰4");
 
         ArrayList<String> woManList = new ArrayList<>();
         woManList.add("林心如");
