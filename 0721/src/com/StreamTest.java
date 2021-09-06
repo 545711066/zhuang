@@ -18,7 +18,7 @@ public class StreamTest {
         manList.add("master-test李连杰4");
         manList.add("hot-fix李连杰4");
         manList.add("push-test李连杰4");
-        manList.add("pull-test李连杰4");
+        manList.add("pull-test李连杰5");
 
         ArrayList<String> woManList = new ArrayList<>();
         woManList.add("林心如");
